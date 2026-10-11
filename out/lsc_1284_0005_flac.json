@@ -1,0 +1,59 @@
+{
+  "file": "C:\\Users\\saada\\OneDrive\\Documents\\WORKSPACE\\transcription-pipeline\\test_audio\\real\\lsc_1284_0005.flac",
+  "input": {
+    "container": "flac",
+    "codec": "flac",
+    "sample_rate": 16000,
+    "channels": 1,
+    "duration": 23.335
+  },
+  "model": "base.en",
+  "language": "en",
+  "language_probability": 1,
+  "duration": 23.335,
+  "duration_after_vad": 23.335,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.52,
+      "text": "They asserted with confidence, and almost with exaltation, that the apostolical succession",
+      "avg_logprob": -0.1473,
+      "no_speech_prob": 0.0171
+    },
+    {
+      "id": 1,
+      "start": 5.52,
+      "end": 10.88,
+      "text": "was interrupted, that all the bishops of Europe and Asia were infected by the contagion of",
+      "avg_logprob": -0.1473,
+      "no_speech_prob": 0.0171
+    },
+    {
+      "id": 2,
+      "start": 10.88,
+      "end": 15.4,
+      "text": "guilt and schism, and that the prerogatives of the Catholic Church were confined to the",
+      "avg_logprob": -0.1473,
+      "no_speech_prob": 0.0171
+    },
+    {
+      "id": 3,
+      "start": 15.4,
+      "end": 21.44,
+      "text": "chosen portion of the African believers, who alone had preserved inviolate the integrity",
+      "avg_logprob": -0.1473,
+      "no_speech_prob": 0.0171
+    },
+    {
+      "id": 4,
+      "start": 21.44,
+      "end": 23.44,
+      "text": "of their faith and discipline.",
+      "avg_logprob": -0.4819,
+      "no_speech_prob": 0.8354
+    }
+  ],
+  "processing_seconds": 60.6,
+  "real_time_factor": 2.597
+}

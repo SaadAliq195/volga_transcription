@@ -1,0 +1,47 @@
+{
+  "C:\\Users\\saada\\OneDrive\\Documents\\WORKSPACE\\transcription-pipeline\\test_audio\\real\\lsc_1284_0005.flac": {
+    "path": "C:\\Users\\saada\\OneDrive\\Documents\\WORKSPACE\\transcription-pipeline\\test_audio\\real\\lsc_1284_0005.flac",
+    "status": "done",
+    "attempts": 1,
+    "error": null,
+    "outputs": {
+      "json": "out\\lsc_1284_0005_flac.json",
+      "srt": "out\\lsc_1284_0005_flac.srt",
+      "txt": "out\\lsc_1284_0005_flac.txt"
+    },
+    "queued_at": 1791718360.2330778,
+    "started_at": 1791718384.6555612,
+    "finished_at": 1791718475.2342298,
+    "processing_seconds": 60.6
+  },
+  "C:\\Users\\saada\\OneDrive\\Documents\\WORKSPACE\\transcription-pipeline\\test_audio\\real\\vctk_p376_245.flac": {
+    "path": "C:\\Users\\saada\\OneDrive\\Documents\\WORKSPACE\\transcription-pipeline\\test_audio\\real\\vctk_p376_245.flac",
+    "status": "done",
+    "attempts": 1,
+    "error": null,
+    "outputs": {
+      "json": "out\\vctk_p376_245_flac.json",
+      "srt": "out\\vctk_p376_245_flac.srt",
+      "txt": "out\\vctk_p376_245_flac.txt"
+    },
+    "queued_at": 1791718384.6565385,
+    "started_at": 1791718475.2402186,
+    "finished_at": 1791718516.388281,
+    "processing_seconds": 1.3
+  },
+  "C:\\Users\\saada\\OneDrive\\Documents\\WORKSPACE\\transcription-pipeline\\test_audio\\real\\edacc_EDACC-C21-B_3.wav": {
+    "path": "C:\\Users\\saada\\OneDrive\\Documents\\WORKSPACE\\transcription-pipeline\\test_audio\\real\\edacc_EDACC-C21-B_3.wav",
+    "status": "done",
+    "attempts": 1,
+    "error": null,
+    "outputs": {
+      "json": "out\\edacc_EDACC-C21-B_3_wav.json",
+      "srt": "out\\edacc_EDACC-C21-B_3_wav.srt",
+      "txt": "out\\edacc_EDACC-C21-B_3_wav.txt"
+    },
+    "queued_at": 1791718397.8887196,
+    "started_at": 1791718516.3922803,
+    "finished_at": 1791718526.4463458,
+    "processing_seconds": 1.46
+  }
+}

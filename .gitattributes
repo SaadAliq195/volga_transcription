@@ -1,0 +1,13 @@
+# Keep line endings consistent across Windows / macOS / Linux checkouts
+*.py   text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+*.json text eol=lf
+*.sh   text eol=lf
+*.ps1  text eol=crlf
+
+# Test audio is binary
+*.flac binary
+*.wav  binary
+*.mp3  binary
+*.ogg  binary
